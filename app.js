@@ -66,9 +66,7 @@ function sortearAmigo() {
         return;
     }
 
-    // Escolha o tipo de sorteio (descomente a opção desejada)
-    
-    // OPÇÃO 1: Sorteio Simples - cada pessoa recebe um amigo único
+    // Sorteio Simples - cada pessoa recebe um amigo único
     const resultados = sortearSimples();
     
     mostrarResultados(resultados);
