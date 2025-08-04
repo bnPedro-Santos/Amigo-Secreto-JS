@@ -67,16 +67,6 @@ Após completar o desafio original, implementei as seguintes melhorias:
 
 ---
 
-## 🛠️ Como Executar
-
-1. Baixe os arquivos
-2. Abra `index.html` no navegador
-3. Não precisa de servidor - funciona localmente
-
-**Pronto para usar! 🎉**
-
----
-
 ## 🎓 Sobre o ONE
 
 O **Oracle Next Education (ONE)** é um programa de educação gratuito promovido pela Oracle em parceria com a Alura, focado em formar desenvolvedores em tecnologia.
